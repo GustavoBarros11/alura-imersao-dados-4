@@ -21,7 +21,6 @@ Nesta imersão nós trabalhamos inicialmente com dados de anúncios de imóveis 
 - [Planejamento da Solução](#planejamento-da-solução)
   - [Produto Final](#produto-final)
   - [Tech Stack](#tech-stack)
-  - [Process and Methods](#process-and-methods)
 - [Insights da Imersão](#insights-da-imersão)
 - [Referências](#referências)
 - [Próximos Passos](#próximos-passos)
@@ -114,16 +113,22 @@ Valor | Preço da casa que está em moeda brasileira BRL
 
 # Planejamento da Solução
 ## Produto Final
-Projeto no Github contendo todos os desafios das 5 aulas da **Imersão Dados 4**. Incluindo visualizações, mapas, dataframes resultantes de merge, e etc.
+* Projeto no Github contendo todos os desafios das 5 aulas da **Imersão Dados 4**. Incluindo visualizações, mapas, dataframes resultantes de merge, e etc.
 ## Tech Stack
 - Python, Pandas, Numpy.
 - Matplotlib, Seaborn
+- Scipy
 - Geopandas
-
-## Process and Methods
+- Scikit-learn
 
 # Insights da Imersão
+A imersão de Dados, seus desafios e aulas explicativas, procuraram sempre se aproximar da tomada de decisão dentro de um projeto de Ciência de Dados real, como abordar estes projetos, quais ferramentas são necessários, junto com métodos e processos. Toda essa experiência foi bastante valiosa, além de ter feito eu por a mão na massa e praticando bastante conhecimentos como: união de datasets, visualizações, gerar insights a partir da análise das visualizações, gerar métricas de dispersão e centralidade e como extrair insight dessas informações, como gerar um modelo de ML para predizer os valores dos imóveis tratados durante as aulas e como selecionar as features certas para a tarefa, dentre outras coisa.
 
 # Referências
+- [Imersão Dados 4](https://www.alura.com.br/imersao-dados-4)
+- [Alura](https://www.alura.com.br)
 
 # Próximos Passos
+- Criar Dashboards
+- Criar um modelo de ML com uma acurácia maior
+- Testar novos modelos de ML
