@@ -3,7 +3,7 @@ Esta é minha implementação dos notebooks e desafios das aulas da imersão de 
 
 ![jpg](assets/sp-wallpaper.jpg)
 
-Nesta imersão nós trabalhamos inicialmente com dados de anúncios de imóveis da cidade de São Paulo, explorando esses dados, trabalhando com as bibliotecas do Python para Ciência de Dados, como: Pandas, Numpy, Matplotlib e Searbon, nós criamos visualizações extraímos insights, trabalhamos com o tratamento de dados nulos, extremos e aplicamos estatísticas de dispersão e centralidade. Depois partimos para tópicos mais complexos, tais quais: merging de dois ou mais datasets completamente distintos, transformadno esses dados para que o merge possa ser possível e no final utilizamos da biblioteca Python para Machine Learnin, Scikit-learn, para gerar um modelo de regressão com o intuito de prever os valores dos imóveis utilizando os datasets que nós trabalhamos nas aulas anteriores.
+Nesta imersão nós trabalhamos inicialmente com dados de anúncios de imóveis da cidade de São Paulo, explorando esses dados, trabalhando com as bibliotecas do Python para Ciência de Dados, como: Pandas, Numpy, Matplotlib e Searbon, nós criamos visualizações extraímos insights, trabalhamos com o tratamento de dados nulos, dados extremos e aplicamos estatísticas de dispersão e centralidade. Depois partimos para tópicos mais complexos, tais quais: merging de dois ou mais datasets completamente distintos, transformação desses dados para que o merge possa ser possível e no final utilizamos da biblioteca Python para Machine Learning, Scikit-learn, para gerar um modelo de regressão com o intuito de prever os valores dos imóveis utilizando os datasets que nós trabalhamos nas aulas anteriores.
 
 # Tabela de Conteúdos
 - [**Imersão Dados v4.0**](#imersão-dados-v40)
